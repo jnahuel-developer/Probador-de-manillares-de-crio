@@ -1,0 +1,237 @@
+Board Information Report
+Filename     : \\NAS4FREE\Laboratorio\Dispositivos\Probador de manillares\ProbadorManillaresCrio\ProbadorManillaresCrio.PcbDoc
+Date         : 22/11/2018
+Time         : 09:39:26 a.m.
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4000milsx4000mils
+    Components on board, 109
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 275
+    Connections routed, 275
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 126, 0, 644, 0, 0, 355, 0
+    Bottom Layer, 0, 0, 0, 318, 0, 0, 191, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 75
+    Mechanical 2, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 3, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 4, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 5, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 6, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 7, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 9, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 11, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 12, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 2, 0, 0, 63, 0, 0, 0, 56
+    Mechanical 14, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 78, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 271, 43, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 54, 0, 0, 423, 242, 2, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 3, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 28
+
+Layer Pairs, Vias
+    Top Layer - Bottom Layer, 43
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 126, 0
+    20mils, 0, 41
+    32mils, 117, 2
+    35mils, 36, 0
+    35.433mils, 2, 0
+    39.37mils, 8, 0
+    39.37mils, 31, 0
+    40mils, 59, 0
+    55mils, 3, 0
+    70mils, 8, 0
+    98.5mils, 3, 0
+    160mils, 4, 0
+count : 12
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -100mils, 4
+    -98.5mils, 3
+    8mils, 3
+    10mils, 3
+    18mils, 113
+    20mils, 76
+    23.622mils, 10
+    25mils, 32
+    27mils, 4
+    30mils, 8
+    31.496mils, 31
+    35mils, 6
+    40mils, 2
+    45mils, 14
+    48mils, 3
+    50mils, 2
+count : 16
+
+Mid Layer Annular Ring Size, Count
+    -100mils, 4
+    -98.5mils, 3
+    8mils, 3
+    10mils, 3
+    18mils, 113
+    20mils, 76
+    23.622mils, 10
+    25mils, 32
+    27mils, 4
+    30mils, 8
+    31.496mils, 31
+    35mils, 6
+    40mils, 2
+    45mils, 14
+    48mils, 3
+    50mils, 2
+count : 16
+
+Bottom Layer Annular Ring Size, Count
+    -100mils, 4
+    -98.5mils, 3
+    8mils, 3
+    10mils, 3
+    18mils, 113
+    20mils, 76
+    23.622mils, 10
+    25mils, 32
+    27mils, 4
+    30mils, 8
+    31.496mils, 31
+    35mils, 6
+    40mils, 2
+    45mils, 14
+    48mils, 3
+    50mils, 2
+count : 16
+
+Pad Solder Mask, Count
+    4mils, 397
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 397
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 397
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 397
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 397
+count : 1
+
+Pad Relief Entries, Count
+    4, 397
+count : 1
+
+Via Solder Mask, Count
+    4mils, 43
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 43
+count : 1
+
+Track Width, Count
+    3.937mils, 141
+    7mils, 6
+    7.874mils, 292
+    8mils, 44
+    10mils, 67
+    12mils, 14
+    15mils, 210
+    20mils, 559
+    40mils, 128
+    60mils, 49
+    160mils, 16
+count : 11
+
+Arc Line Width, Count
+    3.937mils, 2
+    7mils, 14
+    7.874mils, 10
+    8mils, 2
+    9.843mils, 9
+    10mils, 21
+    20mils, 1
+count : 7
+
+Arc Radius, Count
+    4.921mils, 9
+    5mils, 1
+    10mils, 4
+    14.142mils, 7
+    19.685mils, 2
+    20mils, 1
+    28.284mils, 2
+    55mils, 14
+    80mils, 2
+    90mils, 2
+    100mils, 10
+    110mils, 5
+count : 12
+
+Arc Degrees, Count
+    132, 10
+    180, 2
+    298, 2
+    360, 45
+count : 4
+
+Text Height, Count
+    50mils, 4
+    59.055mils, 18
+    60mils, 220
+count : 3
+
+Text Width, Count
+    5.906mils, 18
+    8mils, 6
+    10mils, 218
+count : 3
+
+Net Track Width, Count
+    54463.647mils, 101
+count : 1
+
+Net Via Size, Count
+    40mils, 101
+count : 1
