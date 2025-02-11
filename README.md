@@ -48,6 +48,7 @@ Este sistema permite realizar un test completo de cada unidad de manera rápida 
 
 
 ---
+---
 
 
 ## 🖼️ Modelos 3D diseñados en Altium Designer  
@@ -62,6 +63,7 @@ Vista posterior del PCB:
 
 
 ---
+---
 
 
 ## 🛠️ Herramientas Utilizadas  
@@ -74,6 +76,7 @@ Vista posterior del PCB:
 - **Lenguaje** → C  
 
 
+---
 ---
 
 
